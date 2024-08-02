@@ -12,7 +12,6 @@ I am a highly motivated and experienced data scientist & NLP Specialist with a p
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/rameshs-data/)
-- [Twitter](https://twitter.com/harjot_singh)
 - [GitHub](https://github.com/rameshs-data)
 
 ## Languages and Tools:
